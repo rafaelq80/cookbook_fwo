@@ -23,14 +23,12 @@
 11. <a href="11.md">Flexbox</a>✔
 12. <a href="12.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Header - Parte 01</a>✔
 13. <a href="13.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Header - Parte 02</a>✔
-14. <a href="14.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Home</a>✔
-15. <a href="15.md">Projeto 01 - Portfólio - Estilização da Página index - Seção About</a>✔
-16. <a href="16.md">Grid Layout</a>✔
-17. <a href="17.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Contact</a>✔
-18. <a href="18.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Redes Sociais</a>✔
-19. <a href="19.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Formulario</a>✔
-20. <a href="20.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Footer</a>✔
-21. <a href="21.md">Projeto 01 - Portfólio - Estilização da Página sucess</a>✔
+14. <a href="14.md">Projeto 01 - Portfólio - Estilização da Página index - Seção About</a>✔
+15. <a href="15.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Video</a>✔
+16. <a href="16.md">Projeto 01 - Portfólio - Estilização da Página index - Seção Footer</a>✔
+17. <a href="17.md">Projeto 01 - Portfólio - Estilização da Página contato - Seção Contact</a>✔
+18. <a href="18.md">Projeto 01 - Portfólio - Estilização da Página contato - Seção Mapa</a>✔
+19. <a href="19.md">Grid Layout</a>✔
 
 <br /><br />
 
