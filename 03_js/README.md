@@ -15,10 +15,8 @@
 4. <a href="04.md">JavaScript: O Básico para o Frontend</a>✔
 5. <a href="05.md">Manipulação da DOM</a>✔
 6. <a href="06.md">Tratamento de Eventos</a>✔
-7. <a href="07.md">Projeto 01 - Portfólio -  Atualizar a Seção About Dinamicamente</a>✔
-8. <a href="08.md">Projeto 01 - Portfólio - Enviar E-mail pelo Formulário</a>✔
-9. <a href="09.md">Projeto 01 - Portfólio - Validação de Dados do Formulário</a>✔
-10. <a href="10.md">Projeto 01 - Portfólio - Deploy no GitHub Pages</a>✔
+7. <a href="08.md">Projeto 01 - Portfólio - Envio e Validação de Dados do Formulário</a>✔
+10. <a href="09.md">Projeto 01 - Portfólio - Deploy no GitHub Pages</a>✔
 
 <br /><br />
 
